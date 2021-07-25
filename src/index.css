@@ -23,12 +23,12 @@ code {
 
 @media only screen and (max-width: 600px) {
   html {
-    font-size: 50%;
+    font-size: 55%;
   }
 }
 
 @media only screen and (max-width: 410px) {
   html {
-    font-size: 40%;
+    font-size: 50%;
   }
 }
