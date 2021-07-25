@@ -1,0 +1,14 @@
+$header-backgroound-color: #47e4c2;
+$header-text-color: #ffffff;
+
+.header {
+  background-color: $header-backgroound-color;
+  &__title {
+    text-align: center;
+    padding: 1rem;
+    margin: 0;
+    color: $header-text-color;
+    font-weight: 300;
+    font-size: 3rem;
+  }
+}
